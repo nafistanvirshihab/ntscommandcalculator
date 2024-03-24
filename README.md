@@ -1,15 +1,15 @@
 # ntscommandcalculator
 
 # How to install Command Calculator
-apt install git
-apt install python
-apt install python2
-apt install python3
+1. apt install git <br/>
+2. apt install python <br/>
+3. apt install python2 <br/>
+4. apt install python3 <br/>
 
-run with root permission
-git clone https://github.com/nafistanvirshihab/ntscommandcalculator.git
-ls
-cd ntscommandcalculator
+"Run with root permission" <br/>
+git clone https://github.com/nafistanvirshihab/ntscommandcalculator.git <br/>
+ ls <br/>
+cd ntscommandcalculator <br/>
 python3 ntscommandcalculator.py
 
 
